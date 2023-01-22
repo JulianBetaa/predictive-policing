@@ -1,6 +1,6 @@
 # predictive-policing
 
-## Thema
+## Mögliche Themen
 
 - Erfolge und Möglichkeiten am Beispiel einer bestimmten Stadt (Berlin/Frankfurt/Köln/etc.)
 - Möglichkeiten und Risiken von Methoden, die die Datenschutzrechte verletzen

@@ -6,9 +6,6 @@
 
 [Wikipedia](https://de.wikipedia.org/wiki/Predictive_Policing)
 # Exposé
-> uaoe
-> aua
-> au
 
-- []Hest
+
 

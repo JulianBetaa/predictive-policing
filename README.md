@@ -13,12 +13,6 @@
 
 
 
-Blockcomment
-%%
-ou
-theus
-%%
-
 Für den Überblick
 [Wikipedia](https://de.wikipedia.org/wiki/Predictive_Policing)
 

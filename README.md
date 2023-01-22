@@ -13,9 +13,9 @@
 
 term
 : definition
+term2
+: definition2 
 
-aue : joy
-:joy
 
 Für den Überblick
 [Wikipedia](https://de.wikipedia.org/wiki/Predictive_Policing)

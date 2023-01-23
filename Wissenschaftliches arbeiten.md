@@ -1,0 +1,2 @@
+# Hausaufgabe Plagiate
+## Annette Schavan:

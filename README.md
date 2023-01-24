@@ -7,6 +7,11 @@
 - [x] Auswerten der Auswirkungen auf eine bestimmte Stadt
 
 ## Exposé
+### Titel:
+
+
+
+
 
 # Quellen
 

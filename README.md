@@ -7,11 +7,16 @@
 - [x] Auswerten der Auswirkungen auf eine bestimmte Stadt
 
 ## Exposé
+### Titel:
+
+
+
+
 
 # Quellen
 
->[predictive-policing in Berlin](https://kops.uni-konstanz.de/handle/123456789/43114)
->
+>[predictive-policing in Berlin](https://kops.uni-konstanz.de/handle/123456789/43114) <br>
+> 
 
 >Für den Überblick:
 >[Wikipedia](https://de.wikipedia.org/wiki/Predictive_Policing)

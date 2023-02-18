@@ -15,11 +15,14 @@
 
 # Quellen
 
->[predictive-policing in Berlin](https://kops.uni-konstanz.de/handle/123456789/43114) <br>
-> 
+[predictive-policing in Berlin](https://kops.uni-konstanz.de/handle/123456789/43114) <br>
+Operation Laser
+https://www.theguardian.com/us-news/2021/nov/07/lapd-predictive-policing-surveillance-reform
 
->Für den Überblick:
->[Wikipedia](https://de.wikipedia.org/wiki/Predictive_Policing)
+
+
+Für den Überblick:
+[Wikipedia](https://de.wikipedia.org/wiki/Predictive_Policing)
 
 
 
